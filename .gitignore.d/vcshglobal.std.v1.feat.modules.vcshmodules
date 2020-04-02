@@ -3,7 +3,7 @@
 
 # own '.keep.*' files
 !.keep.vcshglobal.std.v1.feat.modules.vcshmodules
-# own "dotfiles"!
+# own "dotfiles"
 !.*[-_.]vcshglobal.std.v1.feat.modules.vcshmodules
 
 # vim600: set filetype=conf fileformat=unix:
